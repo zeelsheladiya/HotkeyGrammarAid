@@ -1,0 +1,10 @@
+{
+    "shortcut": ["cmd", "shift", ","],
+    "char_limit": 100000,
+    "ai_model": "mistral-7b-instruct-v0.2.Q4_K_M.gguf",
+    "n_ctx": 16384,
+    "n_threads": 8,
+    "verbose": false,
+    "max_tokens": 512,
+    "prompt_template": "### Instruction:\nCorrect the grammar and make it polite and improve the professionalism of the following text.\nDo not change the original structure, message type (email, chat, etc.), or formatting.\nAvoid adding unnecessary phrases or explanations. Just return straight the corrected version only with wrapping in double  or single quotes.\n\n### Input:\n{text}\n\n### Response:\n"
+}
