@@ -60,8 +60,8 @@ pip install -r requirements.txt
 > It only supports `.gguf` model file fot fast and smoother experiance.
 
 * Download your model and put it in the project folder
-* Make sure use download lightweight model because Model performance will depend on your hardware.
-* Best place to doenload models https://huggingface.co/models
+* Make sure you download lightweight model because Model performance will depend on your hardware.
+* Best place to download models https://huggingface.co/models
 
 ## 5. Configure your downloaded model
 ```json
