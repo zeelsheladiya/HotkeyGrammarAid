@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 
 ## 4. Download your LLM model you want to use 
-> It only supports `.gguf` model file fot fast and smoother experiance.
+> It only supports `.gguf` model file for faster and smoother experience.
 
 * Download your model and put it in the project folder
 * Make sure you download lightweight model because Model performance will depend on your hardware.
