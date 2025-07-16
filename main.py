@@ -1,9 +1,8 @@
 import threading
-import time
 
 from utils.clipboard_utils import ClipboardMonitor
 from utils.keyboard_utils import KeyComboListener
-from utils.llm_utils import LLM
+from utils.llm_gguf_utils import LLM
 
 MAIN_TEXT = ""
 
